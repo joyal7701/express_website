@@ -1,0 +1,17 @@
+{
+  "name": "express_website",
+  "version": "1.0.0",
+  "description": "Simple website",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Joyal Shah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "jade": "*",
+    "express": "*",
+    "nodemailer": "*"
+  }
+}
